@@ -26,7 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hestoya&show_icons=true&locale=en" alt="hestoya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hestoya&" alt="hestoya" /></p>
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/[YourGitHub]/[YourGitHub]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div>
