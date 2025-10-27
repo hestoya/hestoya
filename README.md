@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hershey Ann Estoya</h1>
 <h3 align="center">A passionate Graphic and Web designer from Philippines.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hestoya" alt="hestoya" /></a> </p>
+<p align="left"> <a href="https://github.com/hestoya/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hestoya" alt="hestoya" /></a> </p>
 
 - 🔭 I’m currently working on **Thurston Software Solutions, Inc.**
 
