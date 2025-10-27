@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hershey Ann Estoya</h1>
-<h3 align="center">A passionate Graphic and Web designer from Philippines.</h3>
+<h3 align="center">A passionate Graphic and Web Designer from Philippines.</h3>
 
 <div align="center">
     <p>
