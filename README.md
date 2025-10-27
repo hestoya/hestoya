@@ -1,6 +1,12 @@
 <h1 align="center">Hi, I'm Hershey Ann Estoya</h1>
 <h3 align="center">A passionate Graphic and Web designer from Philippines.</h3>
 
+<div align="center">
+    <p>
+        <img src="https://openseauserdata.com/files/5b59b930e55668208b77cb9708a0fa3c.gif" alt="Descriptive Text for the GIF" style="width: 700px; height: auto;"/>
+    </p>
+</div>
+
 - 🔭 I’m currently working on **Thurston Software Solutions, Inc.**
 
 - 🌱 I’m currently learning **Web Development**
@@ -20,3 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hestoya&show_icons=true&locale=en" alt="hestoya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hestoya&" alt="hestoya" /></p>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/[YourGitHub]/[YourGitHub]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
