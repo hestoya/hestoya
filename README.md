@@ -28,7 +28,7 @@
 - 🧠 **UI/UX** – Crafting seamless and meaningful user experiences  
 
 ### 📫 **Let’s Connect**
-- 📧 Reach me at **ishietake@gmail.com**  
+- 📧 Reach me at **hestoya@thurstonsoft.com**  
 - 💼 [Connect on LinkedIn](https://linkedin.com/in/hershey-estoya)
 
 ---
