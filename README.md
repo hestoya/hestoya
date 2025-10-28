@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hershey Ann Estoya 👩‍💻</h1>
-<h3 align="center">A passionate Graphic and Web Designer from the Philippines 🌏</h3>
+<h3 align="center">A passionate Graphic and Web Designer from the Manila, Philippines </h3>
 
 <div align="center">
   <img src="https://openseauserdata.com/files/5b59b930e55668208b77cb9708a0fa3c.gif" alt="Girl with computer" style="width: 700px; height: auto;" />
@@ -52,8 +52,8 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Canva_Logo.svg" alt="Canva" width="40" height="40"/>
-  </a>
+    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
+</a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
   </a>
@@ -80,9 +80,9 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
-  <a href="https://ant.design/" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/ant-design-icon-512x512-vbfx2zvb.png" alt="Ant Design" width="40" height="40"/>
-  </a>
+<a href="https://ant.design/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg" alt="Ant Design" width="40" height="40"/>
+</a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
   </a>
