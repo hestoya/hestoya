@@ -86,16 +86,16 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
   </a>
+  <a href="https://mudblazor.com/" target="_blank" rel="noreferrer">
+    <img src="https://mudblazor.com/_content/MudBlazor.Docs/images/logo.png" alt="MudBlazor" width="40" height="40"/>
+  </a>
 </p>
 
-<!-- ⚙️ BACK-END & FRAMEWORKS -->
-<h4 align="center">⚙️ Back-End & Frameworks</h4>
+<!-- ⚙️ FRAMEWORKS & BACK-END DEVELOPMENT -->
+<h4 align="center">⚙️ Frameworks & Back-End Development</h4>
 <p align="center">
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="Blazor" width="40" height="40"/>
-  </a>
-  <a href="https://mudblazor.com/" target="_blank" rel="noreferrer">
-    <img src="https://mudblazor.com/_content/MudBlazor.Docs/images/logo.png" alt="MudBlazor" width="40" height="40"/>
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
