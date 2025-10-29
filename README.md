@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hershey Ann Estoya 👩‍💻</h1>
-<h3 align="center">Graphic and Web Designer from Manila,Philippines </h3>
+<h3 align="center">Graphic and Web Designer from Manila, Philippines </h3>
 
 <div align="center">
   <img src="https://openseauserdata.com/files/5b59b930e55668208b77cb9708a0fa3c.gif" alt="Girl with computer" style="width: 700px; height: auto;" />
@@ -57,8 +57,8 @@
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
   </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40"/>
+</a>
 </p>
 
 <!-- 💻 FRONT-END DEVELOPMENT -->
