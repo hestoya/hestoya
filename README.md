@@ -28,7 +28,8 @@
 - 🧠 **UI/UX** – Crafting seamless and meaningful user experiences  
 
 ### 📫 **Get in Touch**
-- 📧 Reach me at **hestoya@thurstonsoft.com**  
+- 📧 Reach me at **hestoya@thurstonsoft.com**
+- 👩‍💻 View my data science resume at [https://www.datascienceportfol.io/hersheyannestoya25](https://www.datascienceportfol.io/hersheyannestoya25)
 
 ---
 
@@ -38,10 +39,14 @@
   <a href="https://linkedin.com/in/hershey-estoya" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+  <a href="https://kaggle.com/hersheyannestoya" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
 </p>
 
 ---
 
+<!-- 🛠️ Languages & Tools I Work With -->
 <h3 align="center">🛠️ Languages & Tools I Work With</h3>
 
 <!-- 🎨 DESIGN & PROTOTYPING -->
@@ -52,13 +57,13 @@
   </a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
-</a>
+  </a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
   </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40"/>
-</a>
+  </a>
 </p>
 
 <!-- 💻 FRONT-END DEVELOPMENT -->
@@ -78,10 +83,10 @@
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="40" height="40"/>
-</a>
-<a href="https://ant.design/" target="_blank" rel="noreferrer">
+  </a>
+  <a href="https://ant.design/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg" alt="Ant Design" width="40" height="40"/>
-</a>
+  </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
   </a>
@@ -93,17 +98,23 @@
 <!-- ⚙️ FRAMEWORKS & BACK-END DEVELOPMENT -->
 <h4 align="center">⚙️ Frameworks & Back-End Development</h4>
 <p align="center">
+  <a href="https://laravel.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg" alt="Laravel" width="40" height="40"/>
+</a>
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="Blazor" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
 </p>
 
@@ -137,6 +148,7 @@
     <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" width="40" height="40"/>
   </a>
 </p>
+
 
 ---
 
