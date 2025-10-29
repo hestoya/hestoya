@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hershey Ann Estoya 👩‍💻</h1>
-<h3 align="center">A passionate Graphic and Web Designer from the Philippines </h3>
+<h3 align="center">Graphic and Web Designer from Manila,Philippines </h3>
 
 <div align="center">
   <img src="https://openseauserdata.com/files/5b59b930e55668208b77cb9708a0fa3c.gif" alt="Girl with computer" style="width: 700px; height: auto;" />
@@ -27,9 +27,8 @@
 - ⚡ **JavaScript** – For making designs come alive  
 - 🧠 **UI/UX** – Crafting seamless and meaningful user experiences  
 
-### 📫 **Let’s Connect**
+### 📫 **Get in Touch**
 - 📧 Reach me at **hestoya@thurstonsoft.com**  
-- 💼 [Connect on LinkedIn](https://linkedin.com/in/hershey-estoya)
 
 ---
 
