@@ -3,11 +3,11 @@
 
 <div align="center">
   <img src="https://openseauserdata.com/files/5b59b930e55668208b77cb9708a0fa3c.gif" alt="Girl with computer" style="width: 700px; height: auto;" />
-</div>
+</div><br>
 
 <p align="center">
   I’m a creative mind who loves blending design and technology.  
-  With an eye for aesthetics and a passion for clean code,  
+  With an eye for aesthetics and a passion for clean code, <br> 
   I craft digital experiences that are both beautiful and functional.  
   Let’s collaborate and bring ideas to life! 🌸
 </p>
