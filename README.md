@@ -29,7 +29,7 @@
 
 ### 📫 **Get in Touch**
 - 📧 Reach me at **hestoya@thurstonsoft.com**
-- 📄 View my data science resume at [https://www.datascienceportfol.io/hersheyannestoya25](https://www.datascienceportfol.io/hersheyannestoya25)
+- 📄 View my data science resume at **[https://www.datascienceportfol.io/hersheyannestoya25](https://www.datascienceportfol.io/hersheyannestoya25)**
 
 ---
 
