@@ -42,6 +42,9 @@
   <a href="https://kaggle.com/hersheyannestoya" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
+  <a href="https://www.hackerrank.com/hestoya" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hestoya" height="30" width="40" />
+  </a>
 </p>
 
 ---
