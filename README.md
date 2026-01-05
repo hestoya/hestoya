@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Hershey Ann Estoya 👩‍💻</h1>
 <h3 align="center">Graphic and Web Designer from Manila, Philippines </h3>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://openseauserdata.com/files/5b59b930e55668208b77cb9708a0fa3c.gif" alt="Girl with computer" style="width: 700px; height: auto;" />
-</div><br>
+</div><br> -->
 
 <p align="center">
   I’m a creative mind who loves blending design and technology.  
