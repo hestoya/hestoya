@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Hershey Ann Estoya 👩‍💻</h1>
-<h3 align="center">Graphic and Web Designer from Manila, Philippines </h3>
+<h3 align="center">Graphic and Web Designer from San Juan City </h3>
 
 ---
-<h4 align="center">Computer Science Graduate from Polytechnic University of the Philippines </h4>
+<h4 align="center">Computer Science Graduate from Polytechnic University of the Philippines 🎓 </h4>
 <p align="center">
   I’m a creative mind who loves blending design and technology.  
   With an eye for aesthetics and a passion for clean code, <br> 
