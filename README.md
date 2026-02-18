@@ -2,7 +2,7 @@
 <h3 align="center">Graphic and Web Designer from San Juan, Metro Manila </h3>
 
 ---
-<h4 align="center">Computer Science Graduate from Polytechnic University of the Philippines 🎓 </h4>
+<h4 align="center">Computer Science Graduate from Polytechnic University of the Philippines 🎓</h4>
 <p align="center">
   I’m a creative mind who loves blending design and technology.  
   With an eye for aesthetics and a passion for clean code, <br> 
@@ -55,21 +55,24 @@
 
 <h4 align="center">🎨 Design & Prototyping</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
   <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=ps&theme=dark" />
 </p>
 
 <h4 align="center">💻 Front-End Development</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
   <img src="https://mudblazor.com/_content/MudBlazor.Docs/images/logo.png" alt="MudBlazor" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg" alt="Ant Design" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind&theme=dark" />
 </p>
 
 <h4 align="center">⚙️ Frameworks & Back-End Development</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,dotnet,cs,python,java,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=laravel,dotnet,cs&theme=dark" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="Blazor" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c&theme=dark" />
 </p>
 
 <h4 align="center">🗄️ Databases</h4>
