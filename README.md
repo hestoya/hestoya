@@ -74,7 +74,7 @@
 
 <h4 align="center">🗄️ Databases</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres&theme=dark" />
 </p>
 
 <h4 align="center">⚒️ Tools & IDEs</h4>
