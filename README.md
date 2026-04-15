@@ -54,25 +54,33 @@
 <h3 align="center">🛠️ Languages & Tools I Work With</h3>
 
 <h4 align="center">🎨 Design & Prototyping</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
-  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=ps&theme=dark" />
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" height="50"/>
+  <img src="https://skillicons.dev/icons?i=ps&theme=dark" height="50"/>
 </p>
 
 <h4 align="center">💻 Front-End Development</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
-  <img src="https://mudblazor.com/_content/MudBlazor.Docs/images/logo.png" alt="MudBlazor" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg" alt="Ant Design" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind&theme=dark" />
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="50"/>
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="50"/>
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="50"/>
+  <img src="https://mudblazor.com/_content/MudBlazor.Docs/images/logo.png" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg" height="50"/>
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="50"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="50"/>
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="50"/>
 </p>
 
 <h4 align="center">⚙️ Frameworks & Back-End Development</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,dotnet,cs&theme=dark" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="Blazor" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=python,java,c&theme=dark" />
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=laravel&theme=dark" height="50"/>
+  <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" height="50"/>
+  <img src="https://skillicons.dev/icons?i=cs&theme=dark" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="Blazor" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="50"/>
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="50"/>
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" height="50"/>
 </p>
 
 <h4 align="center">🗄️ Databases</h4>
