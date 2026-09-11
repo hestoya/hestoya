@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hershey Ann Estoya 👩‍💻</h1>
+<h1 align="center">Hi, I'm Hershey Ann Estoya! 👩‍💻</h1>
 <h3 align="center">Graphic and Web Designer from San Juan, Metro Manila </h3>
 
 ---
