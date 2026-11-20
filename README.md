@@ -27,7 +27,7 @@
 
 ### 📫 **Get in Touch**
 - 📧 Reach me at **hestoya@thurstonsoft.com**
-- 💼 Explore my portfolio at **[hersheyannestoya-portfolio](https://www.lnk.ink/hersheyannestoya-portfolio)**
+- 💼 Explore my portfolio at **[hersheyannestoya-portfolio](https://hersheyannestoya-portfolio.lovable.app)**
 - 📄 View my data science resume at **[hersheyannestoya-data_science-resume](https://www.datascienceportfol.io/hersheyannestoya25)**
 
 ---
